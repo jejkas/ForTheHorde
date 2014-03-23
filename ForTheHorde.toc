@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: ForTheHorde
+## Author: rexas (rexas@g33k.se)
+## Notes: Auto alt f4 to save you!
+## SavedVariablesPerCharacter: FTH_Settings
+ForTheHorde.lua
+ForTheHorde.xml
