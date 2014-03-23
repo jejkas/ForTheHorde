@@ -64,7 +64,7 @@ SlashCmdList["FTH"] = function(args)
 				ChatFrame1:AddMessage("Will NOT activate on buff gained.");
 				FTH_Settings["DisconnectOnDebuff"] = false;
 			end
-		elseif string.lower(args[1]) == "HealthLimit"
+		elseif string.lower(args[1]) == "healthlimit"
 		then
 			if args[2] ~= nil
 			then
