@@ -155,7 +155,7 @@ function FTH_eventHandler()
 	if event == "ADDON_LOADED"
 	then
 		if FTH_Settings == nil
-		or true -- Debugg, always reset our settings.
+		--or true -- Debugg, always reset our settings.
 		then
 			FTH_LoadDefaultSettings();
 		end
